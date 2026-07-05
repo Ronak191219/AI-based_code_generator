@@ -4,6 +4,12 @@ An AI-powered web application that generates source code from natural language p
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://ai-based-code-generator-ronak.onrender.com
+
+---
+
 ## 📌 Features
 
 - 🤖 AI-powered code generation using Google Gemini API
